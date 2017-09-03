@@ -1,3 +1,4 @@
+![openbsd-desktop-screenshot-0.png]("assets/openbsd-desktop-screenshot-0.png")
 
 ### Step 0: Updating the default installation
 
