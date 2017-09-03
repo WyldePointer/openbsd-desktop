@@ -78,6 +78,9 @@ Done! Reboot your machine and it should work like a charm.
 Special thanks goes to **Keith Burnett** for his straightforward guide at
 <a href="http://sohcahtoa.org.uk/openbsd.html" target="_blank">http://sohcahtoa.org.uk/openbsd.html</a>
 
+<br />
+<br />
+<hr />
 
 [1] The `echo` command is not mandatory for the next runs.
 
