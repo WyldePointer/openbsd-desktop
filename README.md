@@ -1,4 +1,5 @@
 ![openbsd-desktop-screenshot-0.png](assets/images/openbsd-desktop-screenshot-0.png)
+![openbsd-desktop-screenshot-1.png](assets/images/openbsd-desktop-screenshot-1.png)
 
 ### Step 0: Updating the default installation
 
