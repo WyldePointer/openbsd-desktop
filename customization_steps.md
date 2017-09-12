@@ -8,7 +8,9 @@ ALT+F1 -> "Terminal Emulator" -> ALT+e -> e
   "Background color": "#000000"
   "Cursor color": "#D3D7CF"
   "Default character encoding": "UTF-8"
+  "Use custom styling to make tabs slim (restart required)"
 ```
+
 ```
 ALT+F1 -> "Settings" -> "Appearance"
   "Style": Xfce-flat"
